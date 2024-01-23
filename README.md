@@ -1,7 +1,6 @@
 # simple-weather-forecast-
 simple weather forecast app using html css js
 
-# Weather Forecast App
 
 ## Overview
 
@@ -20,7 +19,7 @@ This Weather Forecast App provides users with up-to-date weather information, he
 
 ## Screenshots
 
-Include screenshots or GIFs of your app in action.
+Include screenshots of app in action.
 
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
