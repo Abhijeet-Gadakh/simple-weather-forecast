@@ -51,5 +51,4 @@ If you'd like to contribute to this project, follow these steps:
 
 ## Conclusion
 
-```plaintext
 Built a user-friendly Weather Forecast App providing accurate weather info. Share feedback or ideas for improvement!
