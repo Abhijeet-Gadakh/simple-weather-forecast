@@ -21,8 +21,8 @@ This Weather Forecast App provides users with up-to-date weather information, he
 
 Include screenshots of app in action.
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+# Home Page :
+<img src="./photos/a.png" alt="Image Alt Text" height="350"/>
 
 ## Setup
 
